@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @briansodenkin
-- 👀 I’m interested in Coding
+- 👀 I’m interested in Fullstack development, React + Node + Java Spring
 - 🌱 I’m currently learning Java Spring
 - 💞️ I’m looking to collaborate on MERN project
 - 📫 How to reach me briansodenkin@gmail.com
